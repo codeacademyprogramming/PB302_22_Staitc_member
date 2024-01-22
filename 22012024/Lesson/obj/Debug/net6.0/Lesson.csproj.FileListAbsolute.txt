@@ -1,0 +1,15 @@
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\bin\Debug\net6.0\Lesson.exe
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\bin\Debug\net6.0\Lesson.deps.json
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\bin\Debug\net6.0\Lesson.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\bin\Debug\net6.0\Lesson.dll
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\bin\Debug\net6.0\Lesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\obj\Debug\net6.0\Lesson.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\obj\Debug\net6.0\Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\obj\Debug\net6.0\Lesson.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\obj\Debug\net6.0\Lesson.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\obj\Debug\net6.0\Lesson.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\obj\Debug\net6.0\Lesson.dll
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\obj\Debug\net6.0\refint\Lesson.dll
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\obj\Debug\net6.0\Lesson.pdb
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\obj\Debug\net6.0\Lesson.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\22. 22-01-2024\22012024\Lesson\obj\Debug\net6.0\ref\Lesson.dll
